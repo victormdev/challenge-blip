@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GitHub Repository API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Repositories": {
+      "get": {
+        "tags": [
+          "Repositories"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

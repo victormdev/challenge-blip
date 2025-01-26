@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "RepositoriesController",
+    "Method": "GetOldestCSharpRepositories",
+    "RelativePath": "api/Repositories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

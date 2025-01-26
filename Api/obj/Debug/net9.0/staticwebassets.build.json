@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6otJbPA7xWjDrpqg169dbHyMkVKYL3snKNAqJrs4hHE=",
+  "Source": "GitHubRepositoryAPI",
+  "BasePath": "_content/GitHubRepositoryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\GitHubRepositoryAPI.exe
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\appsettings.json
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\GitHubRepositoryAPI.dll
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\GitHubRepositoryAPI.deps.json
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\GitHubRepositoryAPI.runtimeconfig.json
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\GitHubRepositoryAPI.pdb
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Victor\Desktop\api\GitHubRepositoryAPI\obj\Debug\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
